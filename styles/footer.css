@@ -1,0 +1,16 @@
+footer {
+  display: flex;
+  justify-content: space-between;
+  padding-block: 24px;
+  font: var(--text-sm);
+}
+
+footer span {
+  gap: 16px;
+}
+
+footer ul {
+  list-style: none;
+  display: flex;
+  gap: 24px;
+}
